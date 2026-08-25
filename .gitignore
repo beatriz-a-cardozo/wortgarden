@@ -1,0 +1,26 @@
+# Java / Maven
+backend/target/
+backend/.mvn/
+!backend/.mvn/wrapper/maven-wrapper.jar
+*.class
+*.jar
+!*wrapper*.jar
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Ambiente
+.env
+.env.local
+*.env
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Docker
+docker-compose.override.yml
