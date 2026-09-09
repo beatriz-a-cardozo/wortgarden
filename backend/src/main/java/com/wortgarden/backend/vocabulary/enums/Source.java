@@ -1,4 +1,4 @@
-package com.wortgarden.backend.model.enums;
+package com.wortgarden.backend.vocabulary.enums;
 
 public enum Source {
     MANUAL,
